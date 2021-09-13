@@ -2,5 +2,5 @@
 
 
 main() {
-printf("≥\µn“j"); 
+printf("≥\µn“j\n"); 
 } 
