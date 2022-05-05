@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # File: constants.py 
 # Description: Basic program constants.
 # Author: Pavel Benáček <pavel.benacek@gmail.com>
@@ -20,9 +22,9 @@ from pygame.locals import *
 
 # Configuration of building shape block
 # Width of the shape block
-BWIDTH     = 40
+BWIDTH     = 10
 # Height of the shape block
-BHEIGHT    = 40
+BHEIGHT    = 10
 # Width of the line around the block
 MESH_WIDTH = 2
 
@@ -39,9 +41,9 @@ WHITE    = (255,255,255)
 RED      = (255,0,0)
 GREEN    = (0,255,0)
 BLUE     = (0,0,255)
-ORANGE   = (255,69,0)
-GOLD     = (255,35,0)
-PURPLE   = (48,0,128)
+ORANGE   = (205,69,0)
+GOLD     = (255,135,0)
+PURPLE   = (128,0,128)
 CYAN     = (0,255,255) 
 BLACK    = (0,0,0)
 
